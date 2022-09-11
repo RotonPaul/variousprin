@@ -1,0 +1,195 @@
+@media(min-width:300px) and (max-width:575px) {
+    .menu_bar {
+        text-align: center;
+        background-color: #5f585824;
+    }
+
+    .banner {
+        background: url(../images/banner.jpg) no-repeat center / cover;
+        padding: 200px 0 70px 0;
+    }
+
+    .search {
+        margin-left: -20px;
+    }
+
+    .price_item i {
+        margin: 0;
+    }
+
+    .herbert_text p {
+        font-size: 14px;
+        max-width: 360px;
+    }
+
+    .subsribe_box .form-control {
+        width: 150px;
+
+    }
+
+    .subsribe_btn {
+        padding: 10px 15px;
+    }
+
+    .contact_item {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .contact_item p {
+        font-size: 13px;
+        padding: 10px 0 20px 0;
+        margin: auto;
+
+    }
+
+
+    .contact_link ul li a {
+        font-size: 13px;
+
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px) {
+    .menu_bar {
+        text-align: center;
+        background-color: #5f585824;
+    }
+
+    .banner {
+        background: url(../images/banner.jpg) no-repeat center / cover;
+        padding: 200px 0 70px 0;
+    }
+
+    .search {
+        margin-left: -20px;
+    }
+
+    .dance_text {
+        margin-top: -2px;
+    }
+
+    .dance_text h3 {
+        font-size: 20px;
+    }
+
+    .dance_text p {
+        font-size: 13px;
+    }
+
+    .dance_last {
+        margin-left: 25%;
+    }
+
+    .price_last {
+        margin-left: 25%;
+    }
+
+    .price_btn {
+        padding: 10px 70px;
+    }
+
+    .price_item i {
+        margin: 0;
+    }
+
+    .amazing_text {
+        margin-left: 30px;
+    }
+
+    .amazing_text h2 {
+        font-size: 30px;
+    }
+
+    .amazing_text p {
+        font-size: 14px;
+    }
+
+    .herbert_text p {
+        font-size: 16px;
+        max-width: 400px;
+    }
+
+    .subsribe_box {
+        margin-left: 80px;
+    }
+
+    .subsribe_box .form-control {
+        max-width: 260px;
+
+    }
+
+    .subsribe_btn {
+        padding: 10px 30px;
+    }
+
+    .contact_item h2 {
+        font-size: 20px;
+    }
+
+    .contact_item p {
+        font-size: 12px;
+        padding: 10px 0 10px 0;
+    }
+
+    .contact_link ul li a {
+        font-size: 12px;
+        display: ruby;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .menu_bar {
+        text-align: center;
+        background-color: #5f585824;
+    }
+
+    .search {
+        margin-left: -20px;
+    }
+
+    .price_btn {
+        padding: 10px 70px;
+    }
+
+    .price_item i {
+        margin: 0;
+    }
+
+    .herbert_text p {
+        font-size: 20px;
+        max-width: 500px;
+    }
+
+    .amazing_text {
+        margin-left: 30px;
+    }
+
+    .subsribe_box {
+        margin-left: -20px;
+    }
+
+    .subsribe_box .form-control {
+        width: 260px;
+
+    }
+
+    .subsribe_btn {
+        padding: 10px 30px;
+    }
+
+    .contact_item h2 {
+        font-size: 24px;
+    }
+
+    .contact_item p {
+        font-size: 14px;
+    }
+
+    .contact_link ul li a {
+        font-size: 14px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1440px) {}
